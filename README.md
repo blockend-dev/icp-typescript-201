@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ICP Azle 201 Boilerplate
 
 ICP Azle 201 Boilerplate is a comprehensive project setup designed to streamline your development process. It provides a solid foundation with pre-configured components to help you get started quickly.
@@ -81,3 +82,6 @@ Otherwise, these changes won't be reflected in IDL's and won't work when called 
 
 ### Marketplace frontend canister
 `dfx deploy dfinity_js_frontend` - deployes the frontend app for the `dfinity_js_backend` canister on IC.
+=======
+
+>>>>>>> e5210083738450b98feecfa8589e9ca6e91cdfcf
